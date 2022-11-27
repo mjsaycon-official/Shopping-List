@@ -1,4 +1,4 @@
-package com.example.shoppinglist.Data
+package com.example.shoppinglist.data
 
 import androidx.lifecycle.LiveData
 import androidx.room.*
@@ -14,5 +14,5 @@ interface ShoppingDao {
     suspend fun delete(shoppingItem: ShoppingItem)
 
     @Query("SELECT * FROM shopping_items")
-    suspend fun getShoppingList(): LiveData<List<ShoppingItem>>
+    fun getShoppingList(): LiveData<List<ShoppingItem>>
 }

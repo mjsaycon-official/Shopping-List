@@ -1,4 +1,4 @@
-package com.example.shoppinglist.Data
+package com.example.shoppinglist.data
 
 import androidx.room.ColumnInfo
 import androidx.room.Entity
@@ -11,6 +11,6 @@ data class ShoppingItem(
     @ColumnInfo(name = "item_amount")
     var amount: Int
 ) {
-    @PrimaryKey
-    private var id: Int? = null
+    @PrimaryKey(autoGenerate = true)
+    var id: Int = 0
 }
