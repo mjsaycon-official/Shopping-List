@@ -10,7 +10,7 @@
 👤 **MJ Saycon**
 
 * Github: [@mjsaycon-official](https://github.com/mjsaycon-official)
-* LinkedIn: [@Mar John Saycon](https://linkedin.com/in/Mar John Saycon)
+* LinkedIn: [@Mar John Saycon](https://www.linkedin.com/in/mar-john-saycon)
 
 ## Show your support
 
