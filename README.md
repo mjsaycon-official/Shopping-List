@@ -5,6 +5,8 @@
 
 > Simple Shopping Application
 
+<img width="1800" alt="ShoppingListFlowChart" src="https://user-images.githubusercontent.com/37238872/204228198-7c88cb6b-50b9-4c45-9f42-34cc13b25cb0.png">
+
 ## Author
 
 👤 **MJ Saycon**
